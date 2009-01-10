@@ -1,0 +1,14 @@
+CodeWheels application is test of possibility creating fully distributed
+multiplatform multilanguage application development solution.
+
+CodeWheels consist from these tools:
+====================================
+
+ * CodeWheel   : source control management
+ * TrakWheel   : issue tracker
+ * PatchWheel  : patch queue management
+ * TestWheel   : unit testing framework
+ * BuildWheel  : build framework
+ * DeployWheel : deployment framework
+ * ServerWheel : Web interface for repositories
+ 
